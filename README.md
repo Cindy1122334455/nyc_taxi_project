@@ -1,4 +1,4 @@
-# nyc_taxi_project
+# New York City Taxi Project
 
 NYC Taxi Exploration
 
